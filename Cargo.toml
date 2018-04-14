@@ -1,0 +1,10 @@
+[package]
+name = "rust_hello_node"
+version = "0.1.0"
+authors = ["Rjoydip <joydipand@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "embed"
+crate-type = ["dylib"]

@@ -1,0 +1,19 @@
+{
+  "name": "node-with-rust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index",
+    "build": "cargo clean && cargo build --release"
+  },
+  "keywords": [],
+  "author": "Rjoydip <joydip.and@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.2.0"
+  }
+}
