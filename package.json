@@ -1,7 +1,7 @@
 {
-  "name": "node-with-rust",
+  "name": "node-rust-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A starter which describe how you use rust with node",
   "main": "index.js",
   "directories": {
     "lib": "lib"

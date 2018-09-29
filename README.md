@@ -1,12 +1,12 @@
-# node-with-rust
+# node-rust-starter
 
-This project tries to showcase how you can use Rust from Node.
+A starter which describe how you use rust with node.
 
 ## Run the code
 
 ```bash
-git clone https://github.com/rjoydip/node-with-rust.git
-cd node-with-rust
+git clone https://github.com/rjoydip/node-rust-starter.git
+cd node-rust-starter
 npm install
 npm run build // build rust code
 npm start
